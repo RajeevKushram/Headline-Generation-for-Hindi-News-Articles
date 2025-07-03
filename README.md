@@ -39,6 +39,9 @@ Both models were evaluated using ROUGE, BLEU, METEOR, and BERTScore.
   - `text` – The full Hindi news article
   - `title` – The corresponding headline
 
+📥 [**👉 Click here to download the language-wise datasets**](https://drive.google.com/drive/folders/1PYUgWMqELhVbQ_nJ7EtpYo_R1xm7XM6y)
+
+
 | Split       | Samples | Avg. Article Length | Avg. Headline Length |
 |-------------|---------|----------------------|------------------------|
 | Training    | 24,000  | 450 tokens           | 19 tokens              |
