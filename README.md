@@ -132,10 +132,8 @@ Ensure you have Python 3.10+. Install the following packages:
 
 Install the required packages using pip:
 
-```bash
-pip install transformers peft datasets torch sentencepiece tqdm nltk evaluate
-
----
+  ```bash
+  pip install transformers peft datasets torch sentencepiece tqdm nltk evaluate
 
 ---
 
