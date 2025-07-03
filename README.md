@@ -108,3 +108,53 @@ Both models were evaluated using ROUGE, BLEU, METEOR, and BERTScore.
 
 3. (Optional) Evaluate using your own dataset in JSONL format.
 
+---
+
+## 📦 Dependencies
+
+Ensure you have Python 3.10+. Install the following packages:
+
+- transformers
+
+- peft
+
+- datasets
+
+- torch
+
+- sentencepiece
+
+- tqdm
+
+- nltk
+
+- evaluate
+
+Install the required packages using pip:
+
+```bash
+pip install transformers peft datasets torch sentencepiece tqdm nltk evaluate
+
+---
+
+---
+
+## 📄 Project Report
+
+The full academic report (PDF) is included in the repository:
+📘 [Headline Generation for Hindi News Articles Project Report.pdf](./Headline%20Generation%20for%20Hindi%20News%20Articles%20Project%20Report.pdf)
+
+---
+
+## 🚀 Future Work
+
+- ✅ Incorporate factual consistency modules
+
+- ✅ Handle code-mixed Hindi-English input
+
+- ✅ Support multimodal input (e.g., images, video)
+
+- ✅ Enable real-time deployment in low-resource settings
+
+- ✅ Explore personalized headline generation
+---
