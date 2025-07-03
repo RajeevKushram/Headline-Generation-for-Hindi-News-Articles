@@ -134,6 +134,7 @@ Install the required packages using pip:
 
   ```bash
   pip install transformers peft datasets torch sentencepiece tqdm nltk evaluate
+  ```
 
 ---
 
