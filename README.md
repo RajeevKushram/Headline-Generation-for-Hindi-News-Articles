@@ -96,5 +96,12 @@ Both models were evaluated using ROUGE, BLEU, METEOR, and BERTScore.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hindi-headline-generation.git
-   cd hindi-headline-generation
+   https://github.com/RajeevKushram/Headline-Generation-for-Hindi-News-Articles.git
+   cd Headline-Generation-for-Hindi-News-Articles.git
+
+2. Open and run:
+- IndicBART Standard.ipynb
+- IndicBART with LORA.ipynb
+
+3. (Optional) Evaluate using your own dataset in JSONL format.
+
