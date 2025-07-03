@@ -141,6 +141,7 @@ Install the required packages using pip:
 ## 📄 Project Report
 
 The full academic report (PDF) is included in the repository:
+
 📘 [Headline Generation for Hindi News Articles Project Report.pdf](./Headline%20Generation%20for%20Hindi%20News%20Articles%20Project%20Report.pdf)
 
 ---
